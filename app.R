@@ -1,1 +1,1 @@
-shinyApp(ui = htmlTemplate("www/index.html"), server)
+shinyApp(ui = htmlTemplate("index.html"), server)
