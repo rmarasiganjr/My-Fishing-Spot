@@ -41,4 +41,4 @@ server <- function(input, output) {
 
 }
 
-shinyApp(ui = htmlTemplate("www/index.html"), server)
+shinyApp(ui = htmlTemplate("https://rmarasiganjr.github.io/My-Fishing-Spot/index.html"), server)
